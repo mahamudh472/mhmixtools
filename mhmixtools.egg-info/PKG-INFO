@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mhmixtools
+Version: 0.1
+Summary: A utility package for image generation and random data tasks
+Author: Md. Mahmud Hasan
+License: MIT
+Requires-Dist: requests
