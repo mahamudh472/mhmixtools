@@ -87,13 +87,4 @@ def download_image(query, access_key=None):
     
     logger.info(f"Image downloaded successfully to {image_path}!")
 
-# for i in range(10):
-
-# download_image(query, "jZH_JERhHNNd3GixfIP7wuqsK5Uh_z5fSFuq5UF50Mg")
-# download_image(query)
-# print(get_next_filename("None.jpg", path=os.getcwd()+"/media/car"))
-
-# Your function or code block
-
-# print(get_next_filename("example.txt"))
 
