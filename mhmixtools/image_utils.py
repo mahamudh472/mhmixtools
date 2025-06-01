@@ -11,7 +11,6 @@ logger = logging.getLogger(__name__)
 # load_dotenv()
 # access_key = os.getenv("UNSPLASH_ACCESS_KEY")
 query = "car"
-import os
 from .decorators import execution_time
 
 
