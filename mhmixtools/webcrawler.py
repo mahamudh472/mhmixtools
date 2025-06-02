@@ -184,8 +184,3 @@ def save_site_report(report, filename='site_report.json', format='json'):
     else:
         logging.error("Unsupported format. Use 'json' or 'csv'.")
 
-
-report = generate_site_report('https://mahamudh472.github.io', depth=2)
-print_site_report(report)
-save_site_report(report, 'site_report.json', format='json')
-save_site_report(report, 'site_report.csv', format='csv')
