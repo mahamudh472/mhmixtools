@@ -7,7 +7,8 @@ setup(
     test_suits='tests',
     install_requires=[
         'requests', 
-        'bs4'
+        'bs4',
+        'pillow'
     ],
     author='Md. Mahmud Hasan',
     author_email="mahadymahamudh472@gmail.com",
