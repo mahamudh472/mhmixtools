@@ -52,7 +52,7 @@ render_templates(template_url: str, target_files: list, content_id: str, indent:
 
 ### 2. `image_utils`
 
-Tools for working with images from the web.
+Tools for working with images from the web and image converters.
 
 #### 🔹 `get_next_filename`
 
